@@ -1,0 +1,46 @@
+:root {
+	/*Background system */
+	--bg-primary: #07070a;
+	--bg-secondary: #0e0f14;
+	--bg-glass:rgba(20, 20, 28, 0.55);
+
+	/* Fluorite-inspired accents */
+	--accent-green: #5fffd7;
+	--accent-purple: #b48cff;
+	--accent-blue: #6aa9ff;
+
+	/* Text */
+	--text-main: #e7e7ee;
+	--text-muted: #6aa9ff;
+
+	/* Borders */
+	--border-soft: rgba(255, 255, 255, 0.08);
+
+	/* Glow effects */
+	--glow-green: 0 0 20px rgba(95, 255, 215, 0.25);
+	--glow-purple: 0 0 20px rgba(180, 140, 255, 0.25);
+	--glow-blue: 0 0 20px rgba(106, 169, 255, 0.25);
+
+	/* Radius system */
+	--radius-sm: 12px;
+	--radius-md: 18px;
+	--radius-lg: 28px;
+}
+
+body {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

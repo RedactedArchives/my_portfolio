@@ -91,6 +91,37 @@ nav a:hover {
 	margin: 1rem auto;
 }
 
+.hero-tagline {
+	font-size: clamp(2rem, 5vw, 3.5rem);
+	font-weight: 700;
+	margin-bottom: 1rem;
+	letter-spacing: -0.5px;
+
+	background: linear-gradient(90deg, #6ee7c7, #7c8cff, #b68cff);
+
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+	text-shadow: 0 0 20px rgba(124, 140, 255, 0.15);
+}
+
+.hero-quote {
+	margin-top: 16px;
+	text-align: center;
+
+	font-style: italic;
+	font-size: 0.95rem;
+	opacity: 0.8;
+	letter-spacing: 0.4px;
+}
+
+.quote-author {
+	display: block;
+	font-size: 0.8rem;
+	opacity: 0.6;
+	margin-bottom: 6px;
+}
+
 
 /* ===== BUTTONS ===== */
 
